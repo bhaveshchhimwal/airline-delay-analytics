@@ -185,7 +185,7 @@ The project includes SQL scripts covering:
 Explore the interactive Tableau dashboard:
 
 **Tableau Public:**
-[Flight Delay Analysis Dashboard](https://public.tableau.com/app/profile/bhavesh.chhimwal/viz/AirlineDelayAnalysisDashboard_17824890798060/Dashboard1)
+[Airline Delay Analysis Dashboard](https://public.tableau.com/app/profile/bhavesh.chhimwal/viz/AirlineDelayAnalysisDashboard_17824890798060/Dashboard1)
 
 ---
 

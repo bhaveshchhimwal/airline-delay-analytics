@@ -6,7 +6,7 @@ A comprehensive data analytics project that explores **5.7 million US commercial
 
 ## Dashboard Preview
 
-![Flight Delay Dashboard](dashboard/dashboard_preview.png)
+
 
 ---
 

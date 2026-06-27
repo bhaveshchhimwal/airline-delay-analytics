@@ -115,6 +115,9 @@ Airline-Delay-Analytics/
 ├── notebooks/
 │   └── airline_delay_analysis.ipynb
 │
+├── report/
+│   └── Airline_Delay_Analytics_Report.pdf
+│
 ├── sql/
 │   ├── schema.sql
 │   └── analysis_queries.sql
@@ -122,7 +125,6 @@ Airline-Delay-Analytics/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
 
 ---
 

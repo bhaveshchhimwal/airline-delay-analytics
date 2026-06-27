@@ -109,7 +109,6 @@ Interactive Tableau Dashboard
 Airline-Delay-Analytics/
 │
 ├── dashboard/
-│   ├── Airline Delay Analysis Dashboard.twb
 │   └── dashboard_preview.png
 │
 ├── notebooks/

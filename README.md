@@ -139,6 +139,7 @@ The project includes SQL scripts covering:
 * Monthly flight trends
 * Monthly delay trends
 * Top busiest airlines
+* Flight distance vs delays
 
 ---
 

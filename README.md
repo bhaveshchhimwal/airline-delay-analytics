@@ -127,35 +127,6 @@ Airline-Delay-Analytics/
 ```
 ---
 
-## Dashboard Visualizations
-
-### Monthly Flight Trend
-
-Shows how flight volume changes throughout the year.
-
-### Delay Status Distribution
-
-Displays the percentage of flights that are:
-
-* Early / On Time
-* Slightly Delayed
-* Moderately Delayed
-* Major Delay
-
-### Average Arrival Delay by Airline
-
-Compares airline performance using average arrival delay.
-
-### Average Departure Delay by Month
-
-Shows seasonal variation in departure delays.
-
-### Top 5 Busiest Airlines
-
-Highlights the airlines operating the highest number of flights.
-
----
-
 ## SQL Analysis
 
 The project includes SQL scripts covering:
